@@ -1,4 +1,4 @@
-Computational_Physics-Computational_Error
+Computational_Physics-MonteCarlo
 =========================================
 
 This was an assignment in my Computational Physics class on understanding MonteCarlo simulations.
